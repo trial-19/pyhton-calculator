@@ -5,3 +5,6 @@ print(add(2, 3))
 
 def subtract(a,b:
 	return a-b
+
+def mutiply(a,b):
+	return a*b
